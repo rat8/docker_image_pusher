@@ -7,3 +7,4 @@ xhofe/alist:latest
 nyanmisaka/jellyfin
 filebrowser/filebrowser
 whyour/qinglong:latest
+fanningert/aria2-with-webui
